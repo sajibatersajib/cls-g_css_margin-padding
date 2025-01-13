@@ -1,0 +1,14 @@
+.box{
+    width: 120px;
+    height: 120px;
+    padding: 5px;
+    display: inline-block;  
+}
+.salmon{
+    background-color: rgb(220, 0, 0);
+    margin: 40px 10px;
+}
+.skyblue{
+    background-color: rgb(233, 1, 82); 
+    margin: 20px 10px;    
+}
